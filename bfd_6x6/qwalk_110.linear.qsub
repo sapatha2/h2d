@@ -1,0 +1,12 @@
+#PBS -q secondary 
+#PBS -l nodes=1,flags=allprocs 
+#PBS -l walltime=00:30:00
+#PBS -N qwalk_110.linear
+#PBS -j oe
+#PBS -o qwalk_110.linear.jobout  
+#PBS -e qwalk_110.linear.err 
+
+module load openmpi/1.6.5-gcc-4.7.1
+module load intel/14.0
+cd ${PBS_O_WORKDIR}  
+mpiexec ../../mainline_fork/bin/qwalk qwalk_110.linear > qwalk_110.linear.out 

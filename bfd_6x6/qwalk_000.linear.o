@@ -1,0 +1,376 @@
+------------------------------------------------
+Quantum Walk development version
+Contributions from: (in no particular order) 
+Michal Bajdich, Shuming Hu, Jindrich Kolorenc, Kevin Rasch, 
+Pavel Vagner, Rene Derian, Paul Kent, Jarrod McClean, 
+Fernando Reboredo, Lucas Wagner, Hiori Kino, Lubos Mitas, Brian Busemeyer, Joshua Schiller,
+Li Chen, Kiel Williams, and Huihuo Zheng
+Originated at North Carolina State University 
+Please cite J. Comp. Phys. v 228 pp 3390-3404 (2009) 
+ when publishing results from this program.
+------------------------------------------------
+Running on golub127
+Wed Nov  8 14:29:18 2017
+
+     System 
+Periodic system 
+Lattice vectors:
+0 : 22.6767   0   0   
+1 : 0   22.6767   0   
+2 : 0   0   100   
+reciprocal vectors(multiplied by 2*pi) : 
+0 : 0.277077    0    0    
+1 : 0    0.277077    0    
+2 : 0    0    0.0628319    
+total number of points in reciprocal ewald sum: 1885
+Self e-i 1.6286
+Self e-e -5.29264
+Self i-i -5.29264
+xc correction 0.0515283 Warning: not added to E_total!
+ion sum of ewald 118.678
+
+Atomic positions 
+ Label          Charge            x               y               z   
+     h               1         1.88973         1.88973               0
+     h               1          20.787          20.787               0
+     h               1          20.787         1.88973               0
+     h               1         1.88973          20.787               0
+     h               1         5.66918         1.88973               0
+     h               1         17.0075          20.787               0
+     h               1          20.787         5.66918               0
+     h               1         1.88973         17.0075               0
+     h               1         9.44863         1.88973               0
+     h               1         13.2281          20.787               0
+     h               1          20.787         9.44863               0
+     h               1         1.88973         13.2281               0
+     h               1         13.2281         1.88973               0
+     h               1         9.44863          20.787               0
+     h               1          20.787         13.2281               0
+     h               1         1.88973         9.44863               0
+     h               1         17.0075         1.88973               0
+     h               1         5.66918          20.787               0
+     h               1          20.787         17.0075               0
+     h               1         1.88973         5.66918               0
+     h               1         5.66918         5.66918               0
+     h               1         17.0075         17.0075               0
+     h               1         17.0075         5.66918               0
+     h               1         5.66918         17.0075               0
+     h               1         9.44863         5.66918               0
+     h               1         13.2281         17.0075               0
+     h               1         17.0075         9.44863               0
+     h               1         5.66918         13.2281               0
+     h               1         13.2281         5.66918               0
+     h               1         9.44863         17.0075               0
+     h               1         17.0075         13.2281               0
+     h               1         5.66918         9.44863               0
+     h               1         9.44863         9.44863               0
+     h               1         13.2281         13.2281               0
+     h               1         13.2281         9.44863               0
+     h               1         9.44863         13.2281               0
+ionic polarization 408.181  408.181  0  
+
+
+     Wavefunction 
+Slater Determinant
+1 determinant
+State: 
+spin up:
+  1 2 3 4 5 6 7 8 9 10 
+  11 12 13 14 15 16 17 18 
+spin down: 
+  1 2 3 4 5 6 7 8 9 10 
+  11 12 13 14 15 16 17 18 
+Molecular Orbital object : Cutoff MO 
+Number of molecular orbitals: 18
+Basis functions: 
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+
+Jastrow2 function
+Group 0
+  Separate spin two-body
+    Coefficients frozen
+    Like coefficients 0.25  0  
+    Unlike Coefficients 0  0.5  
+
+  Electron-electron basis
+    Cutoff cusp
+    Gamma 24   Cusp 1
+    Cutoff cusp
+    Gamma 24   Cusp 1
+
+Group 1
+  One-body terms 
+    Atom   Coefficients 
+    h  0  0  0  
+
+  Two-body terms 
+    Coefficients 0  0  0  
+  Electron-ion basis
+    Poly_pade function
+    beta : 0.2  4.94369  28.4393  
+    cutoff distance : 11.3384
+
+
+  Electron-electron basis
+    Poly_pade function
+    beta : 0.5  6.4296  35.799  
+    cutoff distance : 11.3384
+
+
+
+Pseudopotential 
+atom h
+Integration points 6
+Cutoff for static calculation 0
+Pseudopotential for spin up: 
+  R^n *Gaussian
+  Expansion 0
+       coeff         n  exponent
+           1        -1   4.47692
+     4.47692         1   2.97636
+    -4.32112         0   3.01842
+Pseudopotential for spin down: 
+  R^n *Gaussian
+  Expansion 0
+       coeff         n  exponent
+           1        -1   4.47692
+     4.47692         1   2.97636
+    -4.32112         0   3.01842
+
+
+-----------------------------
+Linear wave function optimization:  
+Number of processors: 20
+Number of MC steps : 1000
+Wave function output to file  : qwalk_000.linear.wfout
+nparms 6
+----------------------------
+step 0: current energy -16.83370299 +/- 0.01407917 energy change  -0.6493818269
+step 1: current energy -17.47082943 +/- 0.009069464519 energy change  -0.2817440014
+step 2: current energy -17.75772257 +/- 0.005680652975 energy change  -0.1041257184
+step 3: current energy -17.85669474 +/- 0.007508281903 energy change  0
+Did not find a downhill move; increasing total vmc steps to 4000
+step 4: current energy -17.85323449 +/- 0.002859149177 energy change  -0.01492155894
+step 5: current energy -17.8657653 +/- 0.003244170391 energy change  0
+Iterations without a downhill move:1
+step 6: current energy -17.86787749 +/- 0.004010075306 energy change  0
+Iterations without a downhill move:2
+Reached 2 without a downhill move and at the maximum number of samples.
+Halting.
+Wall time for this method: 791 seconds.
+Total wall time so far: 794 seconds.

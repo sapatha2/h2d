@@ -1,0 +1,11 @@
+method {
+  dmc
+  timestep 0.01
+  nblock 100
+  tmoves
+}
+include qwalk_100.sys
+trialfunc {
+  include qwalk_100.linear.wfout
+}
+

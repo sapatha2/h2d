@@ -1,5 +1,6 @@
 jastrow2
 group {
+  optimizebasis
   eebasis {
     ee
     cutoff_cusp
@@ -21,6 +22,7 @@ group {
   }
 }
 group {
+  optimize_basis
   eibasis {
     h
     polypade
