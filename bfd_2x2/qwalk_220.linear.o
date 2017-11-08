@@ -1,0 +1,149 @@
+------------------------------------------------
+Quantum Walk development version
+Contributions from: (in no particular order) 
+Michal Bajdich, Shuming Hu, Jindrich Kolorenc, Kevin Rasch, 
+Pavel Vagner, Rene Derian, Paul Kent, Jarrod McClean, 
+Fernando Reboredo, Lucas Wagner, Hiori Kino, Lubos Mitas, Brian Busemeyer, Joshua Schiller,
+Li Chen, Kiel Williams, and Huihuo Zheng
+Originated at North Carolina State University 
+Please cite J. Comp. Phys. v 228 pp 3390-3404 (2009) 
+ when publishing results from this program.
+------------------------------------------------
+Running on golubh4
+Tue Nov  7 20:19:12 2017
+
+     System 
+Periodic system 
+Lattice vectors:
+0 : 7.5589   0   0   
+1 : 0   7.5589   0   
+2 : 0   0   100   
+reciprocal vectors(multiplied by 2*pi) : 
+0 : 0.83123    0    0    
+1 : 0    0.83123    0    
+2 : 0    0    0.0628319    
+total number of points in reciprocal ewald sum: 5665
+Self e-i 0.0201062
+Self e-e -1.50283
+Self i-i -1.50283
+xc correction 0.0515283 Warning: not added to E_total!
+ion sum of ewald 14.1012
+
+Atomic positions 
+ Label          Charge            x               y               z   
+     h               1         1.88973         1.88973               0
+     h               1         5.66918         5.66918               0
+     h               1         5.66918         1.88973               0
+     h               1         1.88973         5.66918               0
+ionic polarization 15.1178  15.1178  0  
+
+
+     Wavefunction 
+Slater Determinant
+1 determinant
+State: 
+spin up:
+  1 2 
+spin down: 
+  1 2 
+Molecular Orbital object : Cutoff MO 
+Number of molecular orbitals: 2
+Basis functions: 
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+
+Jastrow2 function
+Group 0
+  Separate spin two-body
+    Coefficients frozen
+    Like coefficients 0.25  0  
+    Unlike Coefficients 0  0.5  
+
+  Electron-electron basis
+    Cutoff cusp
+    Gamma 24   Cusp 1
+    Cutoff cusp
+    Gamma 24   Cusp 1
+
+Group 1
+  One-body terms 
+    Atom   Coefficients 
+    h  0  0  0  
+
+  Two-body terms 
+    Coefficients 0  0  0  
+  Electron-ion basis
+    Poly_pade function
+    beta : 0.2  4.94369  28.4393  
+    cutoff distance : 3.77945
+
+
+  Electron-electron basis
+    Poly_pade function
+    beta : 0.5  6.4296  35.799  
+    cutoff distance : 3.77945
+
+
+
+Pseudopotential 
+atom h
+Integration points 6
+Cutoff for static calculation 0
+Pseudopotential for spin up: 
+  R^n *Gaussian
+  Expansion 0
+       coeff         n  exponent
+           1        -1   4.47692
+     4.47692         1   2.97636
+    -4.32112         0   3.01842
+Pseudopotential for spin down: 
+  R^n *Gaussian
+  Expansion 0
+       coeff         n  exponent
+           1        -1   4.47692
+     4.47692         1   2.97636
+    -4.32112         0   3.01842
+
+
+-----------------------------
+Linear wave function optimization:  
+Number of processors: 4
+Number of MC steps : 1000
+Wave function output to file  : qwalk_220.linear.wfout
+nparms 6
+----------------------------
+step 0: current energy -1.688867401 +/- 0.006022065641 energy change  -0.04897897913
+step 1: current energy -1.755411173 +/- 0.003964916047 energy change  -0.02456168074
+step 2: current energy -1.772209745 +/- 0.003407396325 energy change  0
+Did not find a downhill move; increasing total vmc steps to 4000
+step 3: current energy -1.777130607 +/- 0.001802774983 energy change  -0.01083549962
+step 4: current energy -1.788804673 +/- 0.001229321515 energy change  0
+Iterations without a downhill move:1
+step 5: current energy -1.791043939 +/- 0.001581274156 energy change  0
+Iterations without a downhill move:2
+Reached 2 without a downhill move and at the maximum number of samples.
+Halting.
+Wall time for this method: 286 seconds.
+Total wall time so far: 288 seconds.

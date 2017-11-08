@@ -1,0 +1,16 @@
+slater
+corbitals {
+cutoff_mo
+  magnify 1
+  nmo 2
+  orbfile qwalk_110.orb
+  include qwalk.basis
+  centers { useglobal }
+}
+detwt { 1.0 }
+states {
+  # Spin up orbitals.
+      1     2
+  # Spin down orbitals.
+      1     2
+}

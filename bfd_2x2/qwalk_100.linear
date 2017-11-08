@@ -1,0 +1,10 @@
+method {
+  linear
+  total_nstep 1000
+}
+include qwalk_100.sys
+trialfunc {
+  slater-jastrow
+  wf1 { include qwalk_100.slater }
+  wf2 { include qwalk.jast2 }
+}

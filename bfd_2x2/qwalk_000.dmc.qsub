@@ -1,0 +1,12 @@
+#PBS -q secondary 
+#PBS -l nodes=1,flags=allprocs 
+#PBS -l walltime=02:00:00
+#PBS -N qwalk_000.dmc
+#PBS -j oe
+#PBS -o qwalk_000.dmc.jobout  
+#PBS -e qwalk_000.dmc.err 
+
+module load openmpi/1.6.5-gcc-4.7.1
+module load intel/14.0
+cd ${PBS_O_WORKDIR}  
+mpiexec ../../mainline_fork/bin/qwalk qwalk_000.dmc > qwalk_000.dmc.out 

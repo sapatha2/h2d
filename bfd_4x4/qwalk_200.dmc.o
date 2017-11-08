@@ -1,0 +1,1131 @@
+------------------------------------------------
+Quantum Walk development version
+Contributions from: (in no particular order) 
+Michal Bajdich, Shuming Hu, Jindrich Kolorenc, Kevin Rasch, 
+Pavel Vagner, Rene Derian, Paul Kent, Jarrod McClean, 
+Fernando Reboredo, Lucas Wagner, Hiori Kino, Lubos Mitas, Brian Busemeyer, Joshua Schiller,
+Li Chen, Kiel Williams, and Huihuo Zheng
+Originated at North Carolina State University 
+Please cite J. Comp. Phys. v 228 pp 3390-3404 (2009) 
+ when publishing results from this program.
+------------------------------------------------
+Running on golub176
+Wed Nov  8 06:27:37 2017
+
+Periodic system 
+Lattice vectors:
+0 : 15.1178   0   0   
+1 : 0   15.1178   0   
+2 : 0   0   100   
+reciprocal vectors(multiplied by 2*pi) : 
+0 : 0.415615    0    0    
+1 : 0    0.415615    0    
+2 : 0    0    0.0628319    
+total number of points in reciprocal ewald sum: 2822
+Self e-i 0.321699
+Self e-e -3.14641
+Self i-i -3.14641
+xc correction 0.0515283 Warning: not added to E_total!
+ion sum of ewald 53.5397
+
+Atomic positions 
+ Label          Charge            x               y               z   
+     h               1         1.88973         1.88973               0
+     h               1         13.2281         13.2281               0
+     h               1         13.2281         1.88973               0
+     h               1         1.88973         13.2281               0
+     h               1         5.66918         1.88973               0
+     h               1         9.44863         13.2281               0
+     h               1         13.2281         5.66918               0
+     h               1         1.88973         9.44863               0
+     h               1         9.44863         1.88973               0
+     h               1         5.66918         13.2281               0
+     h               1         13.2281         9.44863               0
+     h               1         1.88973         5.66918               0
+     h               1         5.66918         5.66918               0
+     h               1         9.44863         9.44863               0
+     h               1         9.44863         5.66918               0
+     h               1         5.66918         9.44863               0
+ionic polarization 120.942  120.942  0  
+Pseudopotential 
+atom h
+Integration points 6
+Cutoff for static calculation 0
+Pseudopotential for spin up: 
+  R^n *Gaussian
+  Expansion 0
+       coeff         n  exponent
+           1        -1   4.47692
+     4.47692         1   2.97636
+    -4.32112         0   3.01842
+Pseudopotential for spin down: 
+  R^n *Gaussian
+  Expansion 0
+       coeff         n  exponent
+           1        -1   4.47692
+     4.47692         1   2.97636
+    -4.32112         0   3.01842
+Slater Determinant
+1 determinant
+State: 
+spin up:
+  1 2 3 4 5 6 7 8 
+spin down: 
+  1 2 3 4 5 6 7 8 
+Molecular Orbital object : Cutoff MO 
+Number of molecular orbitals: 8
+Basis functions: 
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+  Cubic spline for h
+  3  radial functions
+    function  symmetry    cutoff
+           0         S      7.98
+           1         S     11.98
+           2         S      7.98
+
+Jastrow2 function
+Group 0
+  Separate spin two-body
+    Coefficients frozen
+    Like coefficients 0.25  0  
+    Unlike Coefficients 0  0.5  
+
+  Electron-electron basis
+    Cutoff cusp
+    Gamma 24   Cusp 1
+    Cutoff cusp
+    Gamma 24   Cusp 1
+
+Group 1
+  One-body terms 
+    Atom   Coefficients 
+    h  0.376756  0.131027  -0.0613988  
+
+  Two-body terms 
+    Coefficients -0.518363  -0.446516  -0.0436404  
+  Electron-ion basis
+    Poly_pade function
+    beta : 0.2  4.94369  28.4393  
+    cutoff distance : 7.5589
+
+
+  Electron-electron basis
+    Poly_pade function
+    beta : 0.5  6.4296  35.799  
+    cutoff distance : 7.5589
+
+###########################################################
+Diffusion Monte Carlo:
+Number of processors 20
+Blocks: 100
+Steps per block: 100
+Timestep: 0.01
+T-moves turned on
+  recursion depth 1
+  timestep divider 1
+  restricting node crossings
+  drift type 1
+###########################################################
+***
+Block 0 etrial -8.163380421
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994301471
+accept_level0   0.9994301471 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.121560720         6.091422680        -14.16509170      -0.04789170076   (value)
+  &&0        0.5486227070         2.640465154         3.183367072         1.605535404   (sigma)
+Branched 115 times.  So a branch every 1773.913043 steps 
+***
+Block 1 etrial -8.203765294
+maximum age 0 average age 0
+Total acceptance 0.9994362745
+accept_level0   0.9994362745 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.177581644         6.078491894        -14.19254349      -0.06353005006   (value)
+  &&0        0.5453675057         2.578089130         3.094387345         1.520656070   (sigma)
+Branched 298 times.  So a branch every 684.5637584 steps 
+***
+Block 2 etrial -8.245446527
+maximum age 0 average age 0
+Total acceptance 0.9994791667
+accept_level0   0.9994791667 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.226662269         6.079054799        -14.26229849      -0.04341857998   (value)
+  &&0        0.5409884765         2.647313700         3.232194067         1.637218927   (sigma)
+Branched 340 times.  So a branch every 600 steps 
+***
+Block 3 etrial -8.255874078
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994546569
+accept_level0   0.9994546569 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.237284971         6.092782653        -14.27248434      -0.05758328283   (value)
+  &&0        0.5460502484         2.666039773         3.267895094         1.733576776   (sigma)
+Branched 337 times.  So a branch every 605.3412463 steps 
+***
+Block 4 etrial -8.262118055
+maximum age 0 average age 0
+Total acceptance 0.9996017157
+accept_level0   0.9996017157 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.247410066         6.135372541        -14.33953088      -0.04325172801   (value)
+  &&0        0.5536853510         2.696747340         3.277433423         1.695064720   (sigma)
+Branched 312 times.  So a branch every 653.8461538 steps 
+***
+Block 5 etrial -8.289619479
+maximum age 1 average age 0.001225490196
+Total acceptance 0.9995159314
+accept_level0   0.9995159314 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.246104846         6.144664297        -14.35051210      -0.04025704329   (value)
+  &&0        0.5403067719         2.693610582         3.264382902         1.650043953   (sigma)
+Branched 299 times.  So a branch every 682.2742475 steps 
+***
+Block 6 etrial -8.269186844
+maximum age 1 average age 0.001838235294
+Total acceptance 0.9994056373
+accept_level0   0.9994056373 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.253840475         6.124187997        -14.33171443      -0.04631403844   (value)
+  &&0        0.5483014245         2.664548146         3.170867856         1.547339960   (sigma)
+Branched 285 times.  So a branch every 715.7894737 steps 
+***
+Block 7 etrial -8.261672339
+maximum age 0 average age 0
+Total acceptance 0.9994730392
+accept_level0   0.9994730392 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.254819392         6.176434473        -14.38305415      -0.04819971383   (value)
+  &&0        0.5443529866         2.720583199         3.219893050         1.523864011   (sigma)
+Branched 288 times.  So a branch every 708.3333333 steps 
+***
+Block 8 etrial -8.253872904
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994178922
+accept_level0   0.9994178922 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.250121011         6.131129868        -14.33132356      -0.04992731732   (value)
+  &&0        0.5373917708         2.698049065         3.237721315         1.627056971   (sigma)
+Branched 272 times.  So a branch every 750 steps 
+***
+Block 9 etrial -8.258266574
+maximum age 1 average age 0.001225490196
+Total acceptance 0.9994791667
+accept_level0   0.9994791667 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.253294472         6.162955611        -14.37541485      -0.04083523038   (value)
+  &&0        0.5366537320         2.705163154         3.301693652         1.690615060   (sigma)
+Branched 250 times.  So a branch every 816 steps 
+***
+Block 10 etrial -8.258349249
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994669118
+accept_level0   0.9994669118 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.254038992         6.147093605        -14.34765694      -0.05347565259   (value)
+  &&0        0.5358492967         2.629206205         3.198362338         1.639394551   (sigma)
+Branched 256 times.  So a branch every 796.875 steps 
+***
+Block 11 etrial -8.262643781
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9993872549
+accept_level0   0.9993872549 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.262501636         6.080352599        -14.28081205      -0.06204218846   (value)
+  &&0        0.5462466208         2.681381818         3.187148058         1.555648172   (sigma)
+Branched 278 times.  So a branch every 733.8129496 steps 
+***
+Block 12 etrial -8.257032862
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994240196
+accept_level0   0.9994240196 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.255788918         6.151878257        -14.34863191      -0.05903526253   (value)
+  &&0        0.5295611471         2.641508039         3.208658549         1.645816126   (sigma)
+Branched 269 times.  So a branch every 758.3643123 steps 
+***
+Block 13 etrial -8.2581556
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994852941
+accept_level0   0.9994852941 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.257167868         6.219068340        -14.44273602      -0.03350019126   (value)
+  &&0        0.5443914823         2.684861149         3.260609781         1.629650188   (sigma)
+Branched 285 times.  So a branch every 715.7894737 steps 
+***
+Block 14 etrial -8.263882664
+maximum age 0 average age 0
+Total acceptance 0.9994607843
+accept_level0   0.9994607843 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.263133714         6.209297380        -14.40754409      -0.06488700547   (value)
+  &&0        0.5390421202         2.709903052         3.218111223         1.535456642   (sigma)
+Branched 260 times.  So a branch every 784.6153846 steps 
+***
+Block 15 etrial -8.275688402
+maximum age 0 average age 0
+Total acceptance 0.9995098039
+accept_level0   0.9995098039 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.280703492         6.149636277        -14.38368609      -0.04665367951   (value)
+  &&0        0.5433392623         2.716439154         3.290769643         1.660394346   (sigma)
+Branched 299 times.  So a branch every 682.2742475 steps 
+***
+Block 16 etrial -8.27038907
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994852941
+accept_level0   0.9994852941 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.267906958         6.145710545        -14.35320019      -0.06041731146   (value)
+  &&0        0.5422145653         2.632350892         3.204409207         1.641269163   (sigma)
+Branched 284 times.  So a branch every 718.3098592 steps 
+***
+Block 17 etrial -8.268931909
+maximum age 0 average age 0
+Total acceptance 0.9995955882
+accept_level0   0.9995955882 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.267327449         6.106784822        -14.32766722      -0.04644505487   (value)
+  &&0        0.5402298218         2.668642148         3.216427948         1.604549559   (sigma)
+Branched 293 times.  So a branch every 696.2457338 steps 
+***
+Block 18 etrial -8.256704421
+maximum age 0 average age 0
+Total acceptance 0.9993382353
+accept_level0   0.9993382353 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.250179621         6.166340123        -14.36590536      -0.05061438533   (value)
+  &&0        0.5477222271         2.668128349         3.194337137         1.545525730   (sigma)
+Branched 271 times.  So a branch every 752.7675277 steps 
+***
+Block 19 etrial -8.263309171
+maximum age 1 average age 0.001838235294
+Total acceptance 0.9994117647
+accept_level0   0.9994117647 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.264440133         6.158889213        -14.37163870      -0.05169064264   (value)
+  &&0        0.5442166953         2.704619412         3.213559584         1.530918864   (sigma)
+Branched 274 times.  So a branch every 744.5255474 steps 
+***
+Block 20 etrial -8.268851263
+maximum age 0 average age 0
+Total acceptance 0.9994852941
+accept_level0   0.9994852941 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.271449192         6.203999904        -14.42059732      -0.05485177517   (value)
+  &&0        0.5455039218         2.689613088         3.239497104         1.607167316   (sigma)
+Branched 262 times.  So a branch every 778.6259542 steps 
+***
+Block 21 etrial -8.266289352
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9993504902
+accept_level0   0.9993504902 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.266183046         6.201556696        -14.41470399      -0.05303575187   (value)
+  &&0        0.5431954132         2.714059050         3.249217439         1.602598795   (sigma)
+Branched 271 times.  So a branch every 752.7675277 steps 
+***
+Block 22 etrial -8.260079739
+maximum age 1 average age 0.001838235294
+Total acceptance 0.9995343137
+accept_level0   0.9995343137 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.257755354         6.149454885        -14.34647326      -0.06073698052   (value)
+  &&0        0.5451362738         2.693266561         3.175577078         1.520789964   (sigma)
+Branched 273 times.  So a branch every 747.2527473 steps 
+***
+Block 23 etrial -8.267813092
+maximum age 0 average age 0
+Total acceptance 0.9995710784
+accept_level0   0.9995710784 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.268480775         6.068403387        -14.28751106      -0.04937309694   (value)
+  &&0        0.5491073123         2.667493943         3.189607871         1.585571555   (sigma)
+Branched 298 times.  So a branch every 684.5637584 steps 
+***
+Block 24 etrial -8.286561167
+maximum age 0 average age 0
+Total acceptance 0.9994240196
+accept_level0   0.9994240196 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.294920297         6.191635955        -14.43980495      -0.04675130490   (value)
+  &&0        0.5607707601         2.719485746         3.332286386         1.736251648   (sigma)
+Branched 308 times.  So a branch every 662.3376623 steps 
+***
+Block 25 etrial -8.284652296
+maximum age 1 average age 0.000612745098
+Total acceptance 0.999442402
+accept_level0   0.999442402 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.282719666         6.143668895        -14.36371453      -0.06267402847   (value)
+  &&0        0.5468948685         2.765901498         3.281987749         1.587398853   (sigma)
+Branched 291 times.  So a branch every 701.0309278 steps 
+***
+Block 26 etrial -8.273496112
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994546569
+accept_level0   0.9994546569 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.267852065         6.178142511        -14.40242794      -0.04356663916   (value)
+  &&0        0.5418149045         2.687590968         3.240668092         1.629953770   (sigma)
+Branched 278 times.  So a branch every 733.8129496 steps 
+***
+Block 27 etrial -8.268020448
+maximum age 1 average age 0.001838235294
+Total acceptance 0.9995465686
+accept_level0   0.9995465686 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.262176630         6.173299750        -14.37828631      -0.05719007403   (value)
+  &&0        0.5378670031         2.675787018         3.258547713         1.687085736   (sigma)
+Branched 263 times.  So a branch every 775.6653992 steps 
+***
+Block 28 etrial -8.276083283
+maximum age 1 average age 0.001225490196
+Total acceptance 0.9995710784
+accept_level0   0.9995710784 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.278324913         6.187531359        -14.41084277      -0.05501350626   (value)
+  &&0        0.5492649690         2.677259003         3.183855281         1.534945332   (sigma)
+Branched 289 times.  So a branch every 705.8823529 steps 
+***
+Block 29 etrial -8.273278298
+maximum age 0 average age 0
+Total acceptance 0.9995098039
+accept_level0   0.9995098039 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.271981973         6.259299988        -14.47294576      -0.05833619702   (value)
+  &&0        0.5488028379         2.683306573         3.192682048         1.529646321   (sigma)
+Branched 286 times.  So a branch every 713.2867133 steps 
+***
+Block 30 etrial -8.263431824
+maximum age 0 average age 0
+Total acceptance 0.9994485294
+accept_level0   0.9994485294 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.258258006         6.269691269        -14.47423944      -0.05370983679   (value)
+  &&0        0.5354443127         2.649798827         3.192280479         1.576089100   (sigma)
+Branched 279 times.  So a branch every 731.1827957 steps 
+***
+Block 31 etrial -8.258983241
+maximum age 0 average age 0
+Total acceptance 0.9995281863
+accept_level0   0.9995281863 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.256431168         6.225900467        -14.42015490      -0.06217673692   (value)
+  &&0        0.5290316266         2.689547257         3.237635371         1.611228356   (sigma)
+Branched 241 times.  So a branch every 846.473029 steps 
+***
+Block 32 etrial -8.27347184
+maximum age 0 average age 0
+Total acceptance 0.999497549
+accept_level0   0.999497549 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.278356824         6.165429162        -14.40847520      -0.03531078376   (value)
+  &&0        0.5371379255         2.726741387         3.280499265         1.611512048   (sigma)
+Branched 283 times.  So a branch every 720.8480565 steps 
+***
+Block 33 etrial -8.277873118
+maximum age 0 average age 0
+Total acceptance 0.9995220588
+accept_level0   0.9995220588 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.280867823         6.150498456        -14.38503990      -0.04632637879   (value)
+  &&0        0.5428325022         2.656666138         3.340974654         1.848663315   (sigma)
+Branched 284 times.  So a branch every 718.3098592 steps 
+***
+Block 34 etrial -8.271162474
+maximum age 0 average age 0
+Total acceptance 0.9994485294
+accept_level0   0.9994485294 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.265314029         6.203189972        -14.40112497      -0.06737902682   (value)
+  &&0        0.5357131579         2.658659198         3.192176657         1.569315669   (sigma)
+Branched 272 times.  So a branch every 750 steps 
+***
+Block 35 etrial -8.260158015
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9995098039
+accept_level0   0.9995098039 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.258553416         6.247534593        -14.46300879      -0.04307921973   (value)
+  &&0        0.5436374330         2.706268536         3.315355109         1.672161650   (sigma)
+Branched 279 times.  So a branch every 731.1827957 steps 
+***
+Block 36 etrial -8.258443726
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994791667
+accept_level0   0.9994791667 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.256570633         6.233800923        -14.43376178      -0.05660977173   (value)
+  &&0        0.5383920328         2.672595627         3.245411051         1.643828128   (sigma)
+Branched 248 times.  So a branch every 822.5806452 steps 
+***
+Block 37 etrial -8.259066245
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9995098039
+accept_level0   0.9995098039 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.256716713         6.195613569        -14.40444144      -0.04788883774   (value)
+  &&0        0.5398591854         2.656568790         3.198747733         1.597453195   (sigma)
+Branched 274 times.  So a branch every 744.5255474 steps 
+***
+Block 38 etrial -8.264870876
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994852941
+accept_level0   0.9994852941 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.266371148         6.277115047        -14.50608788      -0.03739831346   (value)
+  &&0        0.5486324104         2.676018291         3.278590140         1.687522582   (sigma)
+Branched 281 times.  So a branch every 725.9786477 steps 
+***
+Block 39 etrial -8.263627453
+maximum age 1 average age 0.001838235294
+Total acceptance 0.999564951
+accept_level0   0.999564951 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.261733029         6.253653408        -14.47249113      -0.04289530566   (value)
+  &&0        0.5480014575         2.676131364         3.262822771         1.660725163   (sigma)
+Branched 267 times.  So a branch every 764.0449438 steps 
+***
+Block 40 etrial -8.272790002
+maximum age 1 average age 0.001225490196
+Total acceptance 0.999442402
+accept_level0   0.999442402 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.276305180         6.229320469        -14.45759466      -0.04803099295   (value)
+  &&0        0.5502111450         2.668858423         3.292606549         1.747855437   (sigma)
+Branched 309 times.  So a branch every 660.1941748 steps 
+***
+Block 41 etrial -8.283371973
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994546569
+accept_level0   0.9994546569 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.287690726         6.211695414        -14.44856747      -0.05081867305   (value)
+  &&0        0.5518582869         2.737233898         3.253352653         1.573831370   (sigma)
+Branched 303 times.  So a branch every 673.2673267 steps 
+***
+Block 42 etrial -8.280472261
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9992401961
+accept_level0   0.9992401961 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.279188243         6.255100520        -14.50124001      -0.03304875034   (value)
+  &&0        0.5451184465         2.700721748         3.316799376         1.670360913   (sigma)
+Branched 280 times.  So a branch every 728.5714286 steps 
+***
+Block 43 etrial -8.272359666
+maximum age 1 average age 0.001225490196
+Total acceptance 0.9994791667
+accept_level0   0.9994791667 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.270801915         6.224855813        -14.44680262      -0.04885511155   (value)
+  &&0        0.5419201343         2.668374211         3.238387658         1.627076178   (sigma)
+Branched 300 times.  So a branch every 680 steps 
+***
+Block 44 etrial -8.269802093
+maximum age 0 average age 0
+Total acceptance 0.9995220588
+accept_level0   0.9995220588 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.268457732         6.188922750        -14.41820802      -0.03917246023   (value)
+  &&0        0.5391860995         2.710674268         3.555563296         2.112049440   (sigma)
+Branched 252 times.  So a branch every 809.5238095 steps 
+***
+Block 45 etrial -8.263406342
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9995526961
+accept_level0   0.9995526961 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.260741387         6.207101664        -14.41077191      -0.05707114125   (value)
+  &&0        0.5411646190         2.691553704         3.223496577         1.570924070   (sigma)
+Branched 276 times.  So a branch every 739.1304348 steps 
+***
+Block 46 etrial -8.266759618
+maximum age 0 average age 0
+Total acceptance 0.9994914216
+accept_level0   0.9994914216 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.268951551         6.157199250        -14.37235380      -0.05379699976   (value)
+  &&0        0.5411721478         2.645189336         3.165645438         1.553242021   (sigma)
+Branched 280 times.  So a branch every 728.5714286 steps 
+***
+Block 47 etrial -8.253100293
+maximum age 0 average age 0
+Total acceptance 0.9995098039
+accept_level0   0.9995098039 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.247154417         6.055976818        -14.24750922      -0.05562201646   (value)
+  &&0        0.5396200865         2.650988765         3.195875502         1.629313293   (sigma)
+Branched 247 times.  So a branch every 825.9109312 steps 
+***
+Block 48 etrial -8.262429914
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994362745
+accept_level0   0.9994362745 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.265929509         6.038953635        -14.24065685      -0.06422629229   (value)
+  &&0        0.5447280590         2.658060591         3.151092032         1.533341717   (sigma)
+Branched 289 times.  So a branch every 705.8823529 steps 
+***
+Block 49 etrial -8.277962272
+maximum age 0 average age 0
+Total acceptance 0.9993995098
+accept_level0   0.9993995098 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.285058650         6.092766395        -14.33540337      -0.04242167274   (value)
+  &&0        0.5431421614         2.695889933         3.276745523         1.690465411   (sigma)
+Branched 285 times.  So a branch every 715.7894737 steps 
+***
+Block 50 etrial -8.264105035
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9995343137
+accept_level0   0.9995343137 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.258583660         6.144265368        -14.35753928      -0.04530975038   (value)
+  &&0        0.5306879141         2.673398788         3.249642649         1.659858937   (sigma)
+Branched 274 times.  So a branch every 744.5255474 steps 
+***
+Block 51 etrial -8.262159975
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9995098039
+accept_level0   0.9995098039 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.260940508         5.999678034        -14.20470155      -0.05591699173   (value)
+  &&0        0.5418162010         2.641043535         3.136131083         1.519004559   (sigma)
+Branched 262 times.  So a branch every 778.6259542 steps 
+***
+Block 52 etrial -8.257595671
+maximum age 0 average age 0
+Total acceptance 0.9993933824
+accept_level0   0.9993933824 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.254449653         6.090063343        -14.29871929      -0.04579370497   (value)
+  &&0        0.5415312001         2.678297043         3.252873323         1.649747520   (sigma)
+Branched 254 times.  So a branch every 803.1496063 steps 
+***
+Block 53 etrial -8.256211872
+maximum age 0 average age 0
+Total acceptance 0.9995588235
+accept_level0   0.9995588235 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.255914095         6.150463739        -14.35561101      -0.05076682811   (value)
+  &&0        0.5449234104         2.675359221         3.196005591         1.575125667   (sigma)
+Branched 251 times.  So a branch every 812.749004 steps 
+***
+Block 54 etrial -8.252451022
+maximum age 1 average age 0.001225490196
+Total acceptance 0.9995036765
+accept_level0   0.9995036765 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.251260256         6.192443913        -14.39964769      -0.04405648394   (value)
+  &&0        0.5311457862         2.659266321         3.179089457         1.544449867   (sigma)
+Branched 258 times.  So a branch every 790.6976744 steps 
+***
+Block 55 etrial -8.25711373
+maximum age 0 average age 0
+Total acceptance 0.9995833333
+accept_level0   0.9995833333 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.258867514         6.185996216        -14.39145940      -0.05340433396   (value)
+  &&0        0.5398745312         2.654540233         3.205380076         1.601977723   (sigma)
+Branched 244 times.  So a branch every 836.0655738 steps 
+***
+Block 56 etrial -8.260175782
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994546569
+accept_level0   0.9994546569 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.261372882         6.150620329        -14.35966813      -0.05232508234   (value)
+  &&0        0.5393265294         2.670472445         3.199795937         1.581552591   (sigma)
+Branched 282 times.  So a branch every 723.4042553 steps 
+***
+Block 57 etrial -8.263027223
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9995281863
+accept_level0   0.9995281863 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.264942015         6.187453038        -14.40527544      -0.04711961119   (value)
+  &&0        0.5376388582         2.672725349         3.229898611         1.584306364   (sigma)
+Branched 280 times.  So a branch every 728.5714286 steps 
+***
+Block 58 etrial -8.261858137
+maximum age 0 average age 0
+Total acceptance 0.9994730392
+accept_level0   0.9994730392 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.259728383         6.113723987        -14.32241833      -0.05103403752   (value)
+  &&0        0.5434585688         2.642025029         3.189474443         1.589075170   (sigma)
+Branched 278 times.  So a branch every 733.8129496 steps 
+***
+Block 59 etrial -8.272422612
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994669118
+accept_level0   0.9994669118 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.279493774         6.097297773        -14.33437560      -0.04241594757   (value)
+  &&0        0.5407462590         2.666971558         3.198463506         1.562865406   (sigma)
+Branched 290 times.  So a branch every 703.4482759 steps 
+***
+Block 60 etrial -8.279528504
+maximum age 1 average age 0.000612745098
+Total acceptance 0.999497549
+accept_level0   0.999497549 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.281424460         6.159173531        -14.39911431      -0.04148368114   (value)
+  &&0        0.5441275591         2.685833241         3.307833588         1.743274345   (sigma)
+Branched 313 times.  So a branch every 651.7571885 steps 
+***
+Block 61 etrial -8.285456851
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994546569
+accept_level0   0.9994546569 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.285506452         6.187471946        -14.41744984      -0.05552856184   (value)
+  &&0        0.5529526238         2.699389376         3.250577763         1.636904717   (sigma)
+Branched 304 times.  So a branch every 671.0526316 steps 
+***
+Block 62 etrial -8.28917076
+maximum age 0 average age 0
+Total acceptance 0.9995710784
+accept_level0   0.9995710784 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.291054674         6.141072596        -14.38019429      -0.05193297661   (value)
+  &&0        0.5451518958         2.678702281         3.250473929         1.632326238   (sigma)
+Branched 305 times.  So a branch every 668.852459 steps 
+***
+Block 63 etrial -8.282606371
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994240196
+accept_level0   0.9994240196 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.278412334         6.163425144        -14.40299474      -0.03884273707   (value)
+  &&0        0.5473136286         2.677833390         3.307509655         1.744056545   (sigma)
+Branched 287 times.  So a branch every 710.8013937 steps 
+***
+Block 64 etrial -8.268544318
+maximum age 0 average age 0
+Total acceptance 0.9995588235
+accept_level0   0.9995588235 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.262899815         6.196037360        -14.41052633      -0.04841084290   (value)
+  &&0        0.5399362764         2.709236589         3.258322200         1.621970359   (sigma)
+Branched 270 times.  So a branch every 755.5555556 steps 
+***
+Block 65 etrial -8.260436256
+maximum age 0 average age 0
+Total acceptance 0.9995404412
+accept_level0   0.9995404412 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.255659282         6.146142845        -14.35459220      -0.04720993181   (value)
+  &&0        0.5390106246         2.668060912         3.401826288         1.934132392   (sigma)
+Branched 265 times.  So a branch every 769.8113208 steps 
+***
+Block 66 etrial -8.269160602
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994546569
+accept_level0   0.9994546569 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.274480045         6.140224581        -14.36117071      -0.05353391297   (value)
+  &&0        0.5467171915         2.645772065         3.209474754         1.616765689   (sigma)
+Branched 273 times.  So a branch every 747.2527473 steps 
+***
+Block 67 etrial -8.269214997
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994362745
+accept_level0   0.9994362745 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.269445528         6.153228806        -14.36372733      -0.05894700329   (value)
+  &&0        0.5473275563         2.642661257         3.242511395         1.706525840   (sigma)
+Branched 308 times.  So a branch every 662.3376623 steps 
+***
+Block 68 etrial -8.275846007
+maximum age 0 average age 0
+Total acceptance 0.9994178922
+accept_level0   0.9994178922 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.277436504         6.155702586        -14.39336234      -0.03977675227   (value)
+  &&0        0.5481190486         2.725323523         3.309664914         1.719439725   (sigma)
+Branched 288 times.  So a branch every 708.3333333 steps 
+***
+Block 69 etrial -8.285172137
+maximum age 0 average age 0
+Total acceptance 0.9995281863
+accept_level0   0.9995281863 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.290332657         6.091812323        -14.32926706      -0.05287791738   (value)
+  &&0        0.5497562554         2.653221205         3.186088598         1.578877613   (sigma)
+Branched 299 times.  So a branch every 682.2742475 steps 
+***
+Block 70 etrial -8.288633365
+maximum age 0 average age 0
+Total acceptance 0.9995036765
+accept_level0   0.9995036765 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.289715614         6.105170854        -14.35029299      -0.04459347935   (value)
+  &&0        0.5561286818         2.619880075         3.158126284         1.565593499   (sigma)
+Branched 316 times.  So a branch every 645.5696203 steps 
+***
+Block 71 etrial -8.278377515
+maximum age 1 average age 0.001225490196
+Total acceptance 0.9995036765
+accept_level0   0.9995036765 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.274224134         6.136896484        -14.37126527      -0.03985534889   (value)
+  &&0        0.5372286181         2.638110209         3.241299559         1.646187177   (sigma)
+Branched 283 times.  So a branch every 720.8480565 steps 
+***
+Block 72 etrial -8.275680039
+maximum age 0 average age 0
+Total acceptance 0.9993995098
+accept_level0   0.9993995098 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.271976494         6.180214565        -14.40324723      -0.04894382395   (value)
+  &&0        0.5430347890         2.711830279         3.285184973         1.672070536   (sigma)
+Branched 276 times.  So a branch every 739.1304348 steps 
+***
+Block 73 etrial -8.275602619
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994914216
+accept_level0   0.9994914216 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.275610017         6.184932923        -14.40707426      -0.05346867797   (value)
+  &&0        0.5510951254         2.665156293         3.180085238         1.510169557   (sigma)
+Branched 280 times.  So a branch every 728.5714286 steps 
+***
+Block 74 etrial -8.271011747
+maximum age 0 average age 0
+Total acceptance 0.9995772059
+accept_level0   0.9995772059 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.267943662         6.234501432        -14.46060878      -0.04183631700   (value)
+  &&0        0.5463901113         2.699875018         3.277734987         1.650259271   (sigma)
+Branched 270 times.  So a branch every 755.5555556 steps 
+***
+Block 75 etrial -8.270704493
+maximum age 0 average age 0
+Total acceptance 0.9994730392
+accept_level0   0.9994730392 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.272592214         6.163506588        -14.39065910      -0.04543969798   (value)
+  &&0        0.5522900298         2.649768190         3.197152560         1.588337543   (sigma)
+Branched 307 times.  So a branch every 664.495114 steps 
+***
+Block 76 etrial -8.267090767
+maximum age 1 average age 0.001225490196
+Total acceptance 0.9994730392
+accept_level0   0.9994730392 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.263541743         6.136544509        -14.33830020      -0.06178604975   (value)
+  &&0        0.5451744274         2.686697106         3.174975620         1.520486381   (sigma)
+Branched 262 times.  So a branch every 778.6259542 steps 
+***
+Block 77 etrial -8.268091643
+maximum age 0 average age 0
+Total acceptance 0.999375
+accept_level0   0.999375 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.268822883         6.165541397        -14.38208441      -0.05227987265   (value)
+  &&0        0.5569477723         2.681971853         3.211386580         1.585204058   (sigma)
+Branched 311 times.  So a branch every 655.9485531 steps 
+***
+Block 78 etrial -8.268222454
+maximum age 0 average age 0
+Total acceptance 0.9994607843
+accept_level0   0.9994607843 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.267763111         6.210203381        -14.42629556      -0.05167093250   (value)
+  &&0        0.5433945608         2.715649672         3.445795792         1.938441316   (sigma)
+Branched 274 times.  So a branch every 744.5255474 steps 
+***
+Block 79 etrial -8.267536829
+maximum age 0 average age 0
+Total acceptance 0.9993504902
+accept_level0   0.9993504902 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.267715995         6.247889022        -14.46384015      -0.05176486361   (value)
+  &&0        0.5423329519         2.662371318         3.201076524         1.561104248   (sigma)
+Branched 276 times.  So a branch every 739.1304348 steps 
+***
+Block 80 etrial -8.256467863
+maximum age 1 average age 0.001225490196
+Total acceptance 0.9994485294
+accept_level0   0.9994485294 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.250894476         6.291416858        -14.49087903      -0.05143230316   (value)
+  &&0        0.5338890346         2.663796759         3.235729252         1.629970847   (sigma)
+Branched 243 times.  So a branch every 839.5061728 steps 
+***
+Block 81 etrial -8.260592137
+maximum age 0 average age 0
+Total acceptance 0.9994914216
+accept_level0   0.9994914216 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.262062096         6.199384836        -14.39665046      -0.06479647520   (value)
+  &&0        0.5422627684         2.674004553         3.129535301         1.469346400   (sigma)
+Branched 272 times.  So a branch every 750 steps 
+***
+Block 82 etrial -8.269176263
+maximum age 0 average age 0
+Total acceptance 0.9994240196
+accept_level0   0.9994240196 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.273493105         6.195107181        -14.42465442      -0.04394586694   (value)
+  &&0        0.5371569210         2.719539352         3.292788631         1.640010217   (sigma)
+Branched 272 times.  So a branch every 750 steps 
+***
+Block 83 etrial -8.268891777
+maximum age 0 average age 0
+Total acceptance 0.9994485294
+accept_level0   0.9994485294 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.270188311         6.173070423        -14.39769465      -0.04556408399   (value)
+  &&0        0.5450686653         2.648942383         3.198460190         1.599232872   (sigma)
+Branched 278 times.  So a branch every 733.8129496 steps 
+***
+Block 84 etrial -8.262989284
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994301471
+accept_level0   0.9994301471 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.259737276         6.256475951        -14.46861309      -0.04760013571   (value)
+  &&0        0.5416026622         2.717947668         3.258495019         1.591897434   (sigma)
+Branched 269 times.  So a branch every 758.3643123 steps 
+***
+Block 85 etrial -8.265997611
+maximum age 0 average age 0
+Total acceptance 0.9994791667
+accept_level0   0.9994791667 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.267525418         6.213668402        -14.43000327      -0.05119055266   (value)
+  &&0        0.5357537414         2.678761755         3.174871299         1.515263128   (sigma)
+Branched 261 times.  So a branch every 781.6091954 steps 
+***
+Block 86 etrial -8.275804889
+maximum age 0 average age 0
+Total acceptance 0.9993566176
+accept_level0   0.9993566176 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.281022585         6.161372143        -14.39115869      -0.05123604115   (value)
+  &&0        0.5432952436         2.681489502         3.221099057         1.580236623   (sigma)
+Branched 274 times.  So a branch every 744.5255474 steps 
+***
+Block 87 etrial -8.279023198
+maximum age 0 average age 0
+Total acceptance 0.9995526961
+accept_level0   0.9995526961 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.280004548         6.109108300        -14.33998864      -0.04912420500   (value)
+  &&0        0.5464856620         2.677743358         3.208829850         1.567564115   (sigma)
+Branched 301 times.  So a branch every 677.7408638 steps 
+***
+Block 88 etrial -8.2760203
+maximum age 0 average age 0
+Total acceptance 0.9995281863
+accept_level0   0.9995281863 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.274464527         6.161799655        -14.39495153      -0.04131264833   (value)
+  &&0        0.5448775301         2.700400573         3.256307007         1.615096486   (sigma)
+Branched 272 times.  So a branch every 750 steps 
+***
+Block 89 etrial -8.271852236
+maximum age 1 average age 0.000612745098
+Total acceptance 0.999497549
+accept_level0   0.999497549 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.269820016         6.202749035        -14.42000896      -0.05256008580   (value)
+  &&0        0.5544906604         2.710554010         3.251469767         1.577301511   (sigma)
+Branched 298 times.  So a branch every 684.5637584 steps 
+***
+Block 90 etrial -8.273216549
+maximum age 1 average age 0.001225490196
+Total acceptance 0.999442402
+accept_level0   0.999442402 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.276192893         6.222630261        -14.45254446      -0.04627869610   (value)
+  &&0        0.5471285357         2.691704556         3.284130079         1.672919786   (sigma)
+Branched 284 times.  So a branch every 718.3098592 steps 
+***
+Block 91 etrial -8.272648006
+maximum age 0 average age 0
+Total acceptance 0.9995526961
+accept_level0   0.9995526961 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.271507002         6.241282949        -14.45600659      -0.05678336462   (value)
+  &&0        0.5382075606         2.691844948         3.275897192         1.653285758   (sigma)
+Branched 273 times.  So a branch every 747.2527473 steps 
+***
+Block 92 etrial -8.281833377
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994485294
+accept_level0   0.9994485294 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.286882303         6.170124060        -14.39970763      -0.05729873790   (value)
+  &&0        0.5433654570         2.696679440         3.300059189         1.720300712   (sigma)
+Branched 318 times.  So a branch every 641.509434 steps 
+***
+Block 93 etrial -8.282368112
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9995036765
+accept_level0   0.9995036765 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.281500925         6.195260555        -14.43203145      -0.04473003235   (value)
+  &&0        0.5456713845         2.706676375         3.239745439         1.566404432   (sigma)
+Branched 271 times.  So a branch every 752.7675277 steps 
+***
+Block 94 etrial -8.270776355
+maximum age 1 average age 0.001225490196
+Total acceptance 0.9993872549
+accept_level0   0.9993872549 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.263058567         6.146754144        -14.35341748      -0.05639523543   (value)
+  &&0        0.5370824589         2.664674150         3.178614178         1.513792125   (sigma)
+Branched 276 times.  So a branch every 739.1304348 steps 
+***
+Block 95 etrial -8.26985289
+maximum age 1 average age 0.001225490196
+Total acceptance 0.9994485294
+accept_level0   0.9994485294 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.269112243         6.164169333        -14.37574498      -0.05753659676   (value)
+  &&0        0.5398606729         2.659255838         3.200248348         1.608479166   (sigma)
+Branched 260 times.  So a branch every 784.6153846 steps 
+***
+Block 96 etrial -8.268637937
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994362745
+accept_level0   0.9994362745 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.269498252         6.169164377        -14.38271033      -0.05595229674   (value)
+  &&0        0.5449100208         2.693213374         3.173506757         1.497756524   (sigma)
+Branched 275 times.  So a branch every 741.8181818 steps 
+***
+Block 97 etrial -8.249454679
+maximum age 0 average age 0
+Total acceptance 0.9995404412
+accept_level0   0.9995404412 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.240859735         6.219835600        -14.41771879      -0.04297654123   (value)
+  &&0        0.5407902376         2.667883320         3.232907286         1.584356927   (sigma)
+Branched 257 times.  So a branch every 793.7743191 steps 
+***
+Block 98 etrial -8.247368357
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994730392
+accept_level0   0.9994730392 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.245395109         6.202430901        -14.39632805      -0.05149796319   (value)
+  &&0        0.5355950908         2.629738779         3.168099311         1.571581906   (sigma)
+Branched 256 times.  So a branch every 796.875 steps 
+***
+Block 99 etrial -8.25828187
+maximum age 1 average age 0.000612745098
+Total acceptance 0.9994791667
+accept_level0   0.9994791667 tries 163200
+            total_energy             kinetic           potential            nonlocal
+  ##0        -8.265557987         6.166252913        -14.39035683      -0.04145406665   (value)
+  &&0        0.5355183822         2.653053182         3.202497801         1.587728406   (sigma)
+Branched 260 times.  So a branch every 784.6153846 steps 
+
+ ----------Finished DMC------------
+
+Threw out the first 11 blocks in the averaging.
+total_energy0          -8.26844195 +/-  0.001158038656 (sigma     0.543185494 ) 
+kinetic0               6.174191314 +/-  0.005660709892 (sigma     2.679428905 ) 
+potential0            -14.39228893 +/-  0.005817269555 (sigma     3.238488627 ) 
+nonlocal0           -0.05034433123 +/-  0.000787277413 (sigma     1.624880938 ) 
+weight0                1.002959463 +/- 0.0009230613906 (sigma    0.3577423422 ) 
+
+--------Properties differences-------------
+approximate number of independent points: 220013.9476
+Wall time for this method: 6231 seconds.
+Total wall time so far: 6233 seconds.
