@@ -1,0 +1,84 @@
+----------------------------------------
+Begin Torque Prologue (Wed Nov  8 16:16:54 2017)
+Job ID:           6659288.cc-mgmt1.campuscluster.illinois.edu
+Username:         sapatha2
+Group:            wagner
+Job Name:         qwalk_000.dmc
+Limits:           nodes=1,walltime=04:00:00,neednodes=1
+Job Queue:        secondary
+Account:          wagner
+Nodes:            golub085
+End Torque Prologue
+----------------------------------------
+mpiexec: killing job...
+
+=>> PBS: job killed: walltime 14445 exceeded limit 14400
+----------------------------------------
+Begin Torque Epilogue (Wed Nov  8 20:17:38 2017)
+Job ID:           6659288.cc-mgmt1.campuscluster.illinois.edu
+Username:         sapatha2
+Group:            wagner
+Job Name:         qwalk_000.dmc
+Session:          31378
+Limits:           nodes=1,walltime=04:00:00,neednodes=1
+Resources:        cput=63:59:13,vmem=4743408kb,walltime=04:00:45,mem=911604kb,energy_used=0
+Job Queue:        secondary
+Account:          wagner
+Nodes:            golub085
+End Torque Epilogue
+----------------------------------------
+----------------------------------------
+Begin Torque Prologue (Thu Nov  9 01:11:33 2017)
+Job ID:           6660033.cc-mgmt1.campuscluster.illinois.edu
+Username:         sapatha2
+Group:            wagner
+Job Name:         qwalk_000.dmc
+Limits:           nodes=1,walltime=04:00:00,neednodes=1
+Job Queue:        secondary
+Account:          wagner
+Nodes:            golub107
+End Torque Prologue
+----------------------------------------
+mpiexec: killing job...
+
+=>> PBS: job killed: walltime 14403 exceeded limit 14400
+----------------------------------------
+Begin Torque Epilogue (Thu Nov  9 05:11:35 2017)
+Job ID:           6660033.cc-mgmt1.campuscluster.illinois.edu
+Username:         sapatha2
+Group:            wagner
+Job Name:         qwalk_000.dmc
+Session:          113762
+Limits:           nodes=1,walltime=04:00:00,neednodes=1
+Resources:        cput=63:58:06,vmem=4744040kb,walltime=04:00:03,mem=972820kb,energy_used=0
+Job Queue:        secondary
+Account:          wagner
+Nodes:            golub107
+End Torque Epilogue
+----------------------------------------
+----------------------------------------
+Begin Torque Prologue (Thu Nov  9 11:29:14 2017)
+Job ID:           6663336.cc-mgmt1.campuscluster.illinois.edu
+Username:         sapatha2
+Group:            wagner
+Job Name:         qwalk_000.dmc
+Limits:           nodes=1:ppn=16,walltime=04:00:00,neednodes=1:ppn=16
+Job Queue:        secondary
+Account:          wagner
+Nodes:            golub385
+End Torque Prologue
+----------------------------------------
+----------------------------------------
+Begin Torque Epilogue (Thu Nov  9 13:34:01 2017)
+Job ID:           6663336.cc-mgmt1.campuscluster.illinois.edu
+Username:         sapatha2
+Group:            wagner
+Job Name:         qwalk_000.dmc
+Session:          111121
+Limits:           nodes=1:ppn=16,walltime=04:00:00,neednodes=1:ppn=16
+Resources:        cput=33:16:35,vmem=4747168kb,walltime=02:04:48,mem=954880kb,energy_used=0
+Job Queue:        secondary
+Account:          wagner
+Nodes:            golub385
+End Torque Epilogue
+----------------------------------------

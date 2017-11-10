@@ -1,0 +1,105 @@
+----------------------------------------
+Begin Torque Prologue (Wed Nov  8 17:05:48 2017)
+Job ID:           6659290.cc-mgmt1.campuscluster.illinois.edu
+Username:         sapatha2
+Group:            wagner
+Job Name:         qwalk_110.dmc
+Limits:           nodes=1,walltime=04:00:00,neednodes=1
+Job Queue:        secondary
+Account:          wagner
+Nodes:            golub142
+End Torque Prologue
+----------------------------------------
+mpiexec: killing job...
+
+=>> PBS: job killed: walltime 14410 exceeded limit 14400
+----------------------------------------
+Begin Torque Epilogue (Wed Nov  8 21:05:57 2017)
+Job ID:           6659290.cc-mgmt1.campuscluster.illinois.edu
+Username:         sapatha2
+Group:            wagner
+Job Name:         qwalk_110.dmc
+Session:          88306
+Limits:           nodes=1,walltime=04:00:00,neednodes=1
+Resources:        cput=80:02:03,vmem=5890620kb,walltime=04:00:10,mem=1177208kb,energy_used=0
+Job Queue:        secondary
+Account:          wagner
+Nodes:            golub142
+End Torque Epilogue
+----------------------------------------
+----------------------------------------
+Begin Torque Prologue (Thu Nov  9 01:49:56 2017)
+Job ID:           6663104.cc-mgmt1.campuscluster.illinois.edu
+Username:         sapatha2
+Group:            wagner
+Job Name:         qwalk_110.dmc
+Limits:           nodes=1,walltime=04:00:00,neednodes=1
+Job Queue:        secondary
+Account:          wagner
+Nodes:            golub092
+End Torque Prologue
+----------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD 
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec has exited due to process rank 0 with PID 72385 on
+node golub092 exiting improperly. There are two reasons this could occur:
+
+1. this process did not call "init" before exiting, but others in
+the job did. This can cause a job to hang indefinitely while it waits
+for all processes to call "init". By rule, if one process calls "init",
+then ALL processes must call "init" prior to termination.
+
+2. this process called "init", but exited without calling "finalize".
+By rule, all processes that call "init" MUST call "finalize" prior to
+exiting or it will be considered an "abnormal termination"
+
+This may have caused other processes in the application to be
+terminated by signals sent by mpiexec (as reported here).
+--------------------------------------------------------------------------
+----------------------------------------
+Begin Torque Epilogue (Thu Nov  9 01:50:01 2017)
+Job ID:           6663104.cc-mgmt1.campuscluster.illinois.edu
+Username:         sapatha2
+Group:            wagner
+Job Name:         qwalk_110.dmc
+Session:          72347
+Limits:           nodes=1,walltime=04:00:00,neednodes=1
+Resources:        cput=00:00:00,vmem=0kb,walltime=00:00:05,mem=0kb,energy_used=0
+Job Queue:        secondary
+Account:          wagner
+Nodes:            golub092
+End Torque Epilogue
+----------------------------------------
+----------------------------------------
+Begin Torque Prologue (Thu Nov  9 12:07:07 2017)
+Job ID:           6663337.cc-mgmt1.campuscluster.illinois.edu
+Username:         sapatha2
+Group:            wagner
+Job Name:         qwalk_110.dmc
+Limits:           nodes=1:ppn=20,walltime=04:00:00,neednodes=1:ppn=20
+Job Queue:        secondary
+Account:          wagner
+Nodes:            golub394
+End Torque Prologue
+----------------------------------------
+----------------------------------------
+Begin Torque Epilogue (Thu Nov  9 13:56:12 2017)
+Job ID:           6663337.cc-mgmt1.campuscluster.illinois.edu
+Username:         sapatha2
+Group:            wagner
+Job Name:         qwalk_110.dmc
+Session:          75042
+Limits:           nodes=1:ppn=20,walltime=04:00:00,neednodes=1:ppn=20
+Resources:        cput=36:11:30,vmem=5894588kb,walltime=01:49:05,mem=1265708kb,energy_used=0
+Job Queue:        secondary
+Account:          wagner
+Nodes:            golub394
+End Torque Epilogue
+----------------------------------------

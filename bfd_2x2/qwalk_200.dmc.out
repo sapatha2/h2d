@@ -1,0 +1,8278 @@
+0: output to qwalk_200.dmc.o
+16: cell volume 5713.7
+16: elsu 7.5589
+16: alpha 0.661472
+18: cell volume 5713.7
+18: elsu 7.5589
+18: alpha 0.661472
+26: cell volume 5713.7
+26: elsu 7.5589
+26: alpha 0.661472
+27: cell volume 5713.7
+27: elsu 7.5589
+27: alpha 0.661472
+5: cell volume 5713.7
+5: elsu 7.5589
+5: alpha 0.661472
+7: cell volume 5713.7
+7: elsu 7.5589
+7: alpha 0.661472
+10: cell volume 5713.7
+10: elsu 7.5589
+10: alpha 0.661472
+3: cell volume 5713.7
+3: elsu 7.5589
+3: alpha 0.661472
+4: cell volume 5713.7
+4: elsu 7.5589
+4: alpha 0.661472
+8: cell volume 5713.7
+8: elsu 7.5589
+8: alpha 0.661472
+12: cell volume 5713.7
+12: elsu 7.5589
+12: alpha 0.661472
+cutoff 10.3947
+ total centers 128
+0: cell volume 5713.7
+**Warning** atom 1 is out of the simulation cell.  Putting it inside.
+**Warning** atom 2 is out of the simulation cell.  Putting it inside.
+**Warning** atom 3 is out of the simulation cell.  Putting it inside.
+0: elsu 7.5589
+0: alpha 0.661472
+23: cell volume 5713.7
+23: elsu 7.5589
+23: alpha 0.661472
+14: cell volume 5713.7
+14: elsu 7.5589
+14: alpha 0.661472
+13: cell volume 5713.7
+13: elsu 7.5589
+13: alpha 0.661472
+15: cell volume 5713.7
+15: elsu 7.5589
+15: alpha 0.661472
+17: cell volume 5713.7
+17: elsu 7.5589
+17: alpha 0.661472
+19: cell volume 5713.7
+19: elsu 7.5589
+19: alpha 0.661472
+20: cell volume 5713.7
+20: elsu 7.5589
+20: alpha 0.661472
+24: cell volume 5713.7
+24: elsu 7.5589
+24: alpha 0.661472
+25: cell volume 5713.7
+25: elsu 7.5589
+25: alpha 0.661472
+2: cell volume 5713.7
+2: elsu 7.5589
+2: alpha 0.661472
+22: cell volume 5713.7
+22: elsu 7.5589
+22: alpha 0.661472
+6: cell volume 5713.7
+6: elsu 7.5589
+6: alpha 0.661472
+1: cell volume 5713.7
+1: elsu 7.5589
+1: alpha 0.661472
+11: cell volume 5713.7
+11: elsu 7.5589
+11: alpha 0.661472
+21: cell volume 5713.7
+21: elsu 7.5589
+21: alpha 0.661472
+9: cell volume 5713.7
+9: elsu 7.5589
+9: alpha 0.661472
+1: real space ion-ion 0.000862435
+23: real space ion-ion 0.000862435
+12: real space ion-ion 0.000862435
+17: real space ion-ion 0.000862435
+11: real space ion-ion 0.000862435
+20: real space ion-ion 0.000862435
+6: real space ion-ion 0.000862435
+10: real space ion-ion 0.000862435
+10: reciprocal space ion 14.1003
+27: real space ion-ion 0.000862435
+4: real space ion-ion 0.000862435
+26: real space ion-ion 0.000862435
+5: real space ion-ion 0.000862435
+27: reciprocal space ion 14.1003
+13: real space ion-ion 0.000862435
+15: real space ion-ion 0.000862435
+12: reciprocal space ion 14.1003
+17: reciprocal space ion 14.1003
+Ewald sum using 5665 reciprocal points
+0: real space ion-ion 0.000862435
+11: reciprocal space ion 14.1003
+4: reciprocal space ion 14.1003
+20: reciprocal space ion 14.1003
+1: reciprocal space ion 14.1003
+23: reciprocal space ion 14.1003
+6: reciprocal space ion 14.1003
+26: reciprocal space ion 14.1003
+9: real space ion-ion 0.000862435
+13: reciprocal space ion 14.1003
+15: reciprocal space ion 14.1003
+19: real space ion-ion 0.000862435
+24: real space ion-ion 0.000862435
+18: real space ion-ion 0.000862435
+5: reciprocal space ion 14.1003
+9: reciprocal space ion 14.1003
+0: reciprocal space ion 14.1003
+19: reciprocal space ion 14.1003
+24: reciprocal space ion 14.1003
+2: real space ion-ion 0.000862435
+18: reciprocal space ion 14.1003
+14: real space ion-ion 0.000862435
+2: reciprocal space ion 14.1003
+22: real space ion-ion 0.000862435
+14: reciprocal space ion 14.1003
+3: real space ion-ion 0.000862435
+3: reciprocal space ion 14.1003
+22: reciprocal space ion 14.1003
+25: real space ion-ion 0.000862435
+25: reciprocal space ion 14.1003
+16: real space ion-ion 0.000862435
+16: reciprocal space ion 14.1003
+21: real space ion-ion 0.000862435
+21: reciprocal space ion 14.1003
+7: real space ion-ion 0.000862435
+8: real space ion-ion 0.000862435
+8: reciprocal space ion 14.1003
+7: reciprocal space ion 14.1003
+16: Timestep is 1.09642857142857
+21: Timestep is 1.09642857142857
+26: Timestep is 1.09642857142857
+8: Timestep is 1.09642857142857
+20: Timestep is 1.09642857142857
+27: Timestep is 1.09642857142857
+1: Timestep is 1.09642857142857
+5: Timestep is 1.09642857142857
+25: Timestep is 1.09642857142857
+13: Timestep is 1.09642857142857
+15: Timestep is 1.09642857142857
+12: Timestep is 1.09642857142857
+24: Timestep is 1.09642857142857
+17: Timestep is 1.09642857142857
+9: Timestep is 1.09642857142857
+0: Timestep is 1.09642857142857
+19: Timestep is 1.09642857142857
+11: Timestep is 1.09642857142857
+7: Timestep is 1.09642857142857
+4: Timestep is 1.09642857142857
+22: Timestep is 1.09642857142857
+23: Timestep is 1.09642857142857
+14: Timestep is 1.09642857142857
+10: Timestep is 1.09642857142857
+2: Timestep is 1.09642857142857
+6: Timestep is 1.09642857142857
+3: Timestep is 1.09642857142857
+18: Timestep is 1.09642857142857
+ setting eref= -2.11939445333555
+ start branch cut at 3.00554708643331
+ stop branch cut at 4.50832062964996
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0.01
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0.01
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0.01
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0.01
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0.01
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0.01
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0.01
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0.01
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0.01
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0.01
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0.01
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0.01
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0.01
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0.01
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0.01
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0.01
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0.01
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0.01
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0.01
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0.01
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0.01
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0.01
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0.01
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0.01
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0.01
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 1 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0.01
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0.01
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0.01
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0.01
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0.01
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0.01
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0.01
+sending walkers:0
+matching: 0
+sending branch: 0
+Finding out where to send: 0
+sending walkers:0
+1: Write took 0 seconds

@@ -1,7 +1,7 @@
 method {
   dmc
   timestep 0.01
-  nblock 100
+  nblock 34 
   tmoves
 }
 include qwalk_110.sys

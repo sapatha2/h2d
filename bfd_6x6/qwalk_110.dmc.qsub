@@ -1,5 +1,5 @@
 #PBS -q secondary 
-#PBS -l nodes=1,flags=allprocs 
+#PBS -l nodes=1:ppn=20
 #PBS -l walltime=04:00:00
 #PBS -N qwalk_110.dmc
 #PBS -j oe
